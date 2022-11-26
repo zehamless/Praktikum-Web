@@ -2,8 +2,10 @@
 ## Mahez Pradana-2015061070
 ---
 ## Penjelasan 
-Sistem Gudang yaitu sistem yang berfungsi untuk melakukan tambah, edit, dan hapus barang. Sistem ini juga dilengkapi dengan API untuk mendapatkan JSON.
+Sistem Gudang yaitu sistem yang berfungsi untuk melakukan tambah, edit, dan hapus barang melalui antarmuka. Sistem ini juga dilengkapi dengan API untuk mendapatkan JSON.
 
+### Published
+https://sistemgudangmahez.000webhostapp.com/index.php
 ---
 ## Cara menjalankan di localhost
 1. Memiliki local webserver
