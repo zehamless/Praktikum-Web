@@ -1,0 +1,33 @@
+{
+    "name": "Gudang Barang",
+    "short_name": "GudBar",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#4668c9",
+    "theme_color": "#a7b9ef",
+    "icons": [
+        {
+            "src":"/webassets/img/favicon-16x16.png",
+            "sizes":"16x16",
+            "type":"image/png"
+
+        },
+        {
+            "src":"/webassets/img/favicon-16x16.png",
+            "sizes":"16x16",
+            "type":"image/png"
+
+        },
+        {
+            "src": "/webassets/img/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/webassets/img/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
