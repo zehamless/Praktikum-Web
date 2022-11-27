@@ -10,7 +10,7 @@ https://sistemgudangmahez.000webhostapp.com/index.php
 ## Cara menjalankan di localhost
 1. Memiliki local webserver
 2. Mengunduh folder code
-3. Ketakkan folder code didalam folder htdocs
+3. Letakkan folder code didalam folder htdocs
 4. Masuk ke phpmyadmin, buat database "apilog" dan import file sql
 5. jalankan index.php dengan code editor/live server
 
